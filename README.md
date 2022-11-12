@@ -25,3 +25,5 @@ Content:
 I will keep adding more stuff to this repository in pytorch like how to visualise the tensor board and how to save the model.
 
 Feel free to fork and contribute to this repository.
+
+Official Pytorch Documentation : https://pytorch.org/tutorials/
